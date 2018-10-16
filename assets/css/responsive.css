@@ -1,0 +1,56 @@
+@media (min-width: 768px) {
+	.left-nav-bar .nav-bottom-sec {
+		display: block !important;
+	}
+}
+
+@media (max-width: 767px) {
+	html, body {
+		height: auto;
+	}
+
+	body.has-left-bar,
+	body.left-bar-open {
+		padding-left: 0px;
+	}
+	.left-nav-bar {
+		position: relative;
+		width: 100%;
+		margin-left: 0px;
+		height: auto;
+	}
+	.left-nav-bar .slimScrollDiv {
+		height: auto !important;
+	}
+	.slimScrollBar, .slimScrollRail {
+		display: none !important;
+	}
+	.left-nav-bar .nav-bottom-sec {
+		display: none;
+	}
+	.left-bar-open .left-nav-bar .nav-bottom-sec {
+		display: block;
+	}
+	.bar-notification .dropdown-menu {
+		max-width: 220px;
+	}
+	.bar-notification .message-dropdown {
+		max-width: 350px;
+	}
+	.dropdown-menu>li>a {
+		white-space: normal; 
+	}
+}
+@media (max-width: 500px) {
+
+	.user-info {
+		display: none;
+	}
+	.user-profile .dropdown-menu {
+		right: 0;
+		left: auto;
+	}
+	.bar-notification .dropdown-menu {
+		max-width: 160px;
+	}
+}

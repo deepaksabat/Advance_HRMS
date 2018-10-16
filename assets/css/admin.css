@@ -1,0 +1,161 @@
+.bootstrap-datetimepicker-widget {
+    visibility: visible;
+    opacity: 1;
+    z-index: 99999999999;
+}
+
+.form-group-default .form-control {
+    height: auto;
+}
+
+
+.font-45 {
+    font-size: 45px !important;
+}
+.font-15 {
+    font-size: 15px !important;
+}
+.bg-complete-darker {
+    background-color: #2B6A94 !important;
+}
+.p-2 {
+    padding: 2px !important;
+}
+
+.form-block .form-group{
+    display: block;
+}
+
+.form-block .form-control {
+    display: block;
+    width: 100%;
+}
+
+.bar-notification .dropdown-menu.lang-dropdown {
+    width: 150px;
+}
+.lang-dropdown .user-thumb,
+.lang-dropdown .user-name {
+    display: inline-block;
+    vertical-align: middle;
+}
+.lang-dropdown .user-name {
+    margin-left: 8px;
+}
+
+
+.single-support-reply {
+    background-color: #F3F3F4;
+    padding: 12px;
+    box-shadow: 0px 1px 0px #E0E0E0, 0px 2px 0px #FFFFFF;
+    margin-bottom: 2px;
+}
+.single-support-reply:last-child {
+    margin-bottom: 0px;
+    box-shadow: none;
+}
+
+.reply-user-thumb {
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    float: left;
+    margin-right: 10px;
+}
+.reply-message {
+    margin: 0px;
+}
+
+.reply-info-text {
+    overflow: hidden;
+}
+.reply-user-name {
+    display: inline-block;
+    margin: 0px;
+    font-weight: 500;
+    color: #01BCD4;
+}
+.reply-date {
+    display: inline-block;
+    margin: 0px;
+    font-weight: 400;
+}
+.single-support-reply.client .reply-user-thumb {
+    margin-right: 0px;
+    margin-left: 20px;
+    float: right;
+}
+.single-support-reply.client  .reply-info-text {
+    text-align: right;
+}
+
+
+.single-support-reply.client .label-success,
+.single-support-reply.client .badge-success {
+    background-color: #32C700;
+}
+.single-support-reply.client .reply-user-name {
+    color: #32C700;
+}
+
+
+@media(max-width: 1199px) {
+    .ticket-status-title {
+        width: 110px;
+    }
+    .btn-sm, .btn-group-sm>.btn {
+        padding: 4px 8px;
+    }
+    .p40, .p-xl {
+        padding: 20px !important;
+    }
+}
+
+
+@media(max-width: 500px) {
+    .ticket-status-title {
+        float: none;
+        width: 100%;
+    }
+    .ticket-status-content {
+        margin-bottom: 10px;
+    }
+
+    .reply-user-thumb {
+        width: 38px;
+        height: 38px;
+        margin-right: 10px;
+    }
+
+    .single-support-reply.client .reply-user-thumb {
+        margin-right: 0px;
+        margin-left: 10px;
+    }
+
+    .p40, .p-xl {
+        padding: 10px !important;
+    }
+
+    .action-bar {
+        margin-bottom: 20px;
+    }
+}
+
+.thumbnail-user{
+    display: block;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    margin-left: 80px;
+}
+
+.app-logo{
+    max-width: 60px;
+    padding: 17px 30px !important;
+}
+
+body.no-nav-animation,
+body.no-nav-animation .left-nav-bar {
+    -webkit-transition: none;
+    transition: none;
+}

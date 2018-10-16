@@ -1,0 +1,77 @@
+For Stock management:
+===============================
+
+1. Product Module
+   -> Add Product With Quota Alert 
+   -> Barcode Module
+   -> Product Label Module
+   -> Bulk Upload Product Using CSV
+   -> Export Product (CSV,PDF,Print)
+   -> Filtering Product By Warehose
+   -> Update Product Price using CSV
+   -> Damage Product details
+   -> Full Report On Product module
+      And Many More
+
+2. Transfer 
+   -> Transfer product One warhouse to another warehose
+   -> Transfer product using Bulk Upload by CSV
+   -> Full Report on Transfer Products
+   -> Modify the Transfer information
+     And Many more
+ 
+3. Purchase
+   -> Add Purchase (For Which warehouse, And From Which Supplier)
+   -> Add Purchase Using CSV
+   -> Full Purchase Reports
+   -> Modify the prochase information  
+      And Many more
+
+4. Sale Module
+   -> Add Sale (Regrading Warehouse, Customer, Supplier, Tax, Discount, Shipping Fee ETC)
+   -> Full Reports on Sales Module
+   -> Full Delivery reports
+   -> Modify the Sales Information
+
+5. Quotation Module
+   -> Add Quotation (Regrading Warehouse, Customer, Supplier, Tax, Discount, Shipping Fee ETC)
+   -> Full Reports on Quotation Module
+
+6. People Module
+   -> User Management
+   -> Billers Management
+   -> Supplier Management
+   -> Customer Management
+
+7. Reports 
+
+   -> Warehouse Stock 
+   -> Product Alerts
+   -> Product Reports
+   -> Purchase reports (By Daily, Monthly, Yearly)
+   -> Sales reports (By Daily, Monthly, Yearly)
+   -> Expense reports (By Daily, Monthly, Yearly)
+   -> Supplier reports  
+   -> Customer reports   
+   -> Payment reports (By Daily, Monthly, Yearly)
+   -> Profit/Loss reports (By Daily, Monthly, Yearly)   
+   -> Staff reports   
+   -> All Overview Using Chart (Full System Overview Chart)
+     And Many More
+
+8. Setting Module
+   -> System Settings (Product, Sales,Money Number Format, Prefix, SMTP, Award Point, Site Configration Like Timezone, Currency, Login Captcha ETC)
+   -> Group/User Permission
+   -> Pos Settings
+   -> Custom Category On (Product, Expense ETC)
+   -> Add Multiple warehouse and Maintain
+   -> Tax Module 
+   -> Email Templates
+   -> Backup All Data 
+     And Many More
+
+
+
+Portugues
+
+
