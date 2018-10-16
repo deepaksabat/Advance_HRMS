@@ -2,7 +2,7 @@
 
 # Introduction
 
-Thank you for purchasing Advanced HRM. Advanced HRM involves everything related to the employer-employee relationship and is about supporting and managing the organisation’s people and associated processes. It’s seen as a core business function essential to the organisation’s effective operation.
+Advanced HRM involves everything related to the employer-employee relationship and is about supporting and managing the organisation’s people and associated processes. It’s seen as a core business function essential to the organisation’s effective operation.
 
 # System Rquirements
 PHP >= 5.5.9
